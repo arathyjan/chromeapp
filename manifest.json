@@ -1,0 +1,14 @@
+{
+  "name": "HelloWorld",
+  "description": "Hello World For chrome packaged app",
+  "manifest_version": 2,
+  "version": "1.0",
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  },
+  "icons": {
+    "16": "calculator-16.png"
+  }
+}
